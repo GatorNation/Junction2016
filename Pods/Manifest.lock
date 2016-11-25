@@ -1,12 +1,29 @@
 PODS:
+  - Alamofire (4.2.0)
+  - GoogleMaps (2.1.1):
+    - GoogleMaps/Maps (= 2.1.1)
+  - GoogleMaps/Base (2.1.1)
+  - GoogleMaps/Maps (2.1.1):
+    - GoogleMaps/Base
+  - GooglePlaces (2.1.1):
+    - GoogleMaps/Base (= 2.1.1)
   - Proximiio (1.1.6)
+  - SwiftyJSON (3.1.3)
 
 DEPENDENCIES:
-  - Proximiio
+  - Alamofire
+  - GoogleMaps
+  - GooglePlaces
+  - Proximiio (~> 1.1.6)
+  - SwiftyJSON
 
 SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  GoogleMaps: a5b5bbe47734e2443bde781a6aa64e69fdb6d785
+  GooglePlaces: 35636d86e5020cba3856eb988c09a5491de0a65a
   Proximiio: d17a6753f150496dc787518cbc33d7acca62f9dc
+  SwiftyJSON: 38a8ea2006779c0fc4c310cb2ee8195327740faf
 
-PODFILE CHECKSUM: 34f328588a95e1b8179b47cd80bdab64f8b59fae
+PODFILE CHECKSUM: b3da5e6dd71c922210ba2bb858e2e5db40cf7ef0
 
 COCOAPODS: 1.1.1
