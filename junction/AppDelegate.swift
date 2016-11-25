@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-    let APIKey : String = "AIzaSyDtLROk7Qbcq7VTKSws-mdQ1buuQoH-dK8"
+    let APIKey : String = "AIzaSyCQlVyGpshaeQ_DAAE0GOjPzuaTnsQ0URs"
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
