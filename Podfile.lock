@@ -1,0 +1,12 @@
+PODS:
+  - Proximiio (1.1.6)
+
+DEPENDENCIES:
+  - Proximiio
+
+SPEC CHECKSUMS:
+  Proximiio: d17a6753f150496dc787518cbc33d7acca62f9dc
+
+PODFILE CHECKSUM: 34f328588a95e1b8179b47cd80bdab64f8b59fae
+
+COCOAPODS: 1.1.1
